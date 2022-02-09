@@ -1,0 +1,25 @@
+{
+	"name": "parkplatz-transform-data-analysis",
+	"version": "1.0.0",
+	"description": "Script to analyse Parkplatz Transform parking data",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
+		"format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.5.1"
+	},
+	"dependencies": {
+		"@turf/area": "^6.5.0",
+		"@turf/boolean-intersects": "^6.5.0",
+		"@turf/length": "^6.5.0",
+		"async": "^3.2.3",
+		"glob": "^7.2.0",
+		"mapshaper": "^0.5.88",
+		"papaparse": "^5.3.1"
+	}
+}
