@@ -1,4 +1,4 @@
-# Über das Repo
+# Über das Script
 
 Das Repo beinhalten ein Script welches Parkplatzdaten aus der [Parkplatz Transform App](https://app.xtransform.org/) auf administrativer Ebene (z.B. Berliner Planungsräume) auswertet und mit verschiedenen öffentlichen Daten verschneidet. Die berechneten Daten werde als CSV [hier](./data/out/PLR_analysed.csv) abgelegt. 
 
