@@ -26,7 +26,7 @@ Folgende Annahmen werden beim Auswerten der Daten getroffen:
 - Ein Parkplatz ist 12.5m² groß
 - Liniensegemnte aus den Rohdaten sind immer Teil des Straßenraumes
 - Polygone aus den Rohdaten sind nur Teil des Straßenraumes, wenn sie im Straßenraum liegen. Wenn sie maximal 10m² herausragen, sind sie auch Teil des Straßenraumes. Damit werden Ungenauigkeiten beim Erfassen der Flächen berücksichtigt.
-- Da beim Eintragen der Daten in der App kleine Ungenauigkeiten entstanden sein können werden Linien bzw. Polygone, welche 10m bzw. 10m² über einem administrativen Gebieten herausragen, diesen Gebieten vollständig zugeschrieben. 
+- Da beim Eintragen der Daten in der App kleine Ungenauigkeiten entstanden sein können werden Linien bzw. Polygone, welche 15m bzw. 10m² über einem administrativen Gebiet herausragen, diesem Gebiet vollständig zugeschrieben. 
 
 
 ## Quellen

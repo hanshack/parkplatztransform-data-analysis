@@ -22,9 +22,9 @@ function getRelationStatusLine(feature, adminArea, callback) {
 		const lineInside = cleanGeoJSON.features[0].geometry;
 		const singleLineLength = lineLength(lineInside) * 1000;
 		const lineDifference = totalLineLength - singleLineLength;
-		if (lineDifference <= 10) {
+		if (lineDifference <= 15) {
 			callback('in');
-		} else if (singleLineLength <= 10) {
+		} else if (singleLineLength <= 15) {
 			callback('out');
 		} else {
 			callback('inout');
