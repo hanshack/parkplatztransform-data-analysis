@@ -7,14 +7,14 @@ const glob = require('glob');
 const async = require('async');
 const Papa = require('papaparse');
 
-const csvToLookup = require('./utils/csvToLookup');
+const csvToLookup = require(path.join(dirName,'scripts/utils/csvToLookup'));
 
-const gruenanlagen = csvToLookup(fs.readFileSync('data/in/PLR_gruenanlagenbestand.csv', 'utf-8'));
-const spielplaetze = csvToLookup(fs.readFileSync('data/in/PLR_spielplaetze.csv', 'utf-8'));
-const strassenraum = csvToLookup(fs.readFileSync('data/in/PLR_strassenraum.csv', 'utf-8'));
-const population = csvToLookup(fs.readFileSync('data/in/PLR_population.csv', 'utf-8'));
-const kfz = csvToLookup(fs.readFileSync('data/in/PLR_kfz.csv', 'utf-8'));
-const extraInfo = csvToLookup(fs.readFileSync('data/in/PLR_extra.csv', 'utf-8'));
+const gruenanlagen = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_gruenanlagenbestand.csv'), 'utf-8'));
+const spielplaetze = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_spielplaetze.csv'), 'utf-8'));
+const strassenraum = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_strassenraum.csv'), 'utf-8'));
+const population = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_population.csv'), 'utf-8'));
+const kfz = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_kfz.csv'), 'utf-8'));
+const extraInfo = csvToLookup(fs.readFileSync(path.join(dirName,'data/in/PLR_extra.csv'), 'utf-8'));
 
 const PARKING_SIZE = 12.5;
 
@@ -43,7 +43,7 @@ function getConstrains(data) {
 
 function analyseData(mainCallback) {
 	// read all street files from each admin
-	glob('data/temp/streets/intersections/*', (err, files) => {
+	glob(path.join(dirName,'data/temp/streets/intersections/*'), (err, files) => {
 		if (err) return console.warn(err);
 		const csvData = [];
 		async.eachSeries(
@@ -139,7 +139,7 @@ function analyseData(mainCallback) {
 			function (err) {
 				let csv = Papa.unparse(csvData, { newline: '\r\n' });
 				// write CSV with all data
-				fs.writeFile(`data/out/PLR_analysed.csv`, csv, function (err) {
+				fs.writeFile(path.join(dirName,`data/out/PLR_analysed.csv`), csv, function (err) {
 					console.log('data analysed');
 
 					mainCallback();

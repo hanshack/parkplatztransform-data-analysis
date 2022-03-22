@@ -4,7 +4,7 @@ module.exports = { splitData };
 
 const fs = require('fs');
 const async = require('async');
-const { getRelationStatusLine, getRelationStatusPolygon } = require('./utils/getRelationStatus');
+const { getRelationStatusLine, getRelationStatusPolygon } = require(path.join(dirName,'scripts//utils/getRelationStatus'));
 const intersects = require('@turf/boolean-intersects').default;
 const area = require('@turf/area').default;
 
@@ -23,18 +23,18 @@ function csvToObject(csv, colNr) {
 function splitData(mainCallback) {
 	// Raw Parkplatz Transform data
 	const PTdata = JSON.parse(
-		fs.readFileSync('data/temp/parkplatz-transform-prepaired.json', 'utf-8')
+		fs.readFileSync(path.join(dirName,'data/temp/parkplatz-transform-prepaired.json'), 'utf-8')
 	);
 	// Planungsräumen (PLR)
-	const PLR = JSON.parse(fs.readFileSync('data/in/planungsraueme.json', 'utf-8'));
+	const PLR = JSON.parse(fs.readFileSync(path.join(dirName,'data/in/planungsraueme.json'), 'utf-8'));
 	// The status of the PLR - status=2 means all done
-	const adminStatus = fs.readFileSync('data/in/PLR_status.csv', 'utf-8');
+	const adminStatus = fs.readFileSync(path.join(dirName,'data/in/PLR_status.csv'), 'utf-8');
 	const adminStatusLookup = csvToObject(adminStatus, 2);
 
 	// create folders
-	fs.mkdirSync(`data/temp/streets/`, { recursive: true });
-	fs.mkdirSync(`data/temp/streets/intersections/`, { recursive: true });
-	fs.mkdirSync(`data/temp/streets/within`, { recursive: true });
+	fs.mkdirSync(path.join(dirName,`data/temp/streets/`), { recursive: true });
+	fs.mkdirSync(path.join(dirName,`data/temp/streets/intersections/`), { recursive: true });
+	fs.mkdirSync(path.join(dirName,`data/temp/streets/within`), { recursive: true });
 
 	// for each PLR
 	async.eachSeries(
@@ -102,12 +102,12 @@ function splitData(mainCallback) {
 				function (err) {
 					if (featuresIntersecting.features.length !== 0) {
 						fs.writeFile(
-							`data/temp/streets/intersections/${adminName}.json`,
+							path.join(dirName,`data/temp/streets/intersections/${adminName}.json`),
 							JSON.stringify(featuresIntersecting, null, 4),
 							function (err) {
 								// when done writing
 								fs.writeFile(
-									`data/temp/streets/within/${adminName}.json`,
+									path.join(dirName,`data/temp/streets/within/${adminName}.json`),
 									JSON.stringify(featuresWithin, null, 4),
 									function (err) {
 										// when done writing

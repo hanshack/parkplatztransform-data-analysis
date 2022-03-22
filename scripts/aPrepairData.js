@@ -11,16 +11,7 @@ module.exports = { prepairData };
 
 const fs = require('fs');
 const getLineLength = require('@turf/length').default;
-const { getRelationStatusPolygon } = require('./utils/getRelationStatus');
-
-// Raw Parkplatz Transform data
-let PTdata = JSON.parse(fs.readFileSync('data/in/parkplatz-transform.json', 'utf-8'));
-if (PTdata.features && PTdata.features.type === 'FeatureCollection') {
-	// this fixes the current bug of the raw data from the app
-	PTdata = PTdata.features;
-}
-
-const strassenraum = JSON.parse(fs.readFileSync('data/in/strassenraum_unmerged.json', 'utf-8'));
+const { getRelationStatusPolygon } = require(path.join(dirName,'scripts/utils/getRelationStatus'));
 
 function countCarByMeter(segment) {
 	return segment.length_in_meters && segment.parking_allowed && segment.car_count === null;
@@ -43,6 +34,15 @@ const PARKING_LENGTH_PERPENDICULAR = 5.2 / 2;
 
 function prepairData(mainCallback) {
 	console.log('1. Prepair data ...');
+
+		// Raw Parkplatz Transform data
+	let PTdata = JSON.parse(fs.readFileSync(path.join(dirName,'data/in/parkplatz-transform.json'), 'utf-8'));
+	if (PTdata.features && PTdata.features.type === 'FeatureCollection') {
+		// this fixes the current bug of the raw data from the app
+		PTdata = PTdata.features[0];
+	}
+
+	const strassenraum = JSON.parse(fs.readFileSync(path.join(dirName,'data/in/strassenraum.json'), 'utf-8'));
 
 	async.eachSeries(
 		PTdata.features,
@@ -100,7 +100,7 @@ function prepairData(mainCallback) {
 				feature.properties.carCount = carCountPolygon;
 				feature.properties.constrains = constrainsCount;
 				feature.properties.isPartOfStrassenraum = false;
-				console.log('analysing realtion status of polygon <-> street...');
+
 				getRelationStatusPolygon(feature, strassenraum, function (status) {
 					feature.properties.isPartOfStrassenraum = status === 'in' ? true : false;
 					callbackEach();
@@ -113,8 +113,8 @@ function prepairData(mainCallback) {
 		function (err) {
 			// finally write a geojson with all streets
 			fs.writeFile(
-				`data/temp/parkplatz-transform-prepaired.json`,
-				JSON.stringify(PTdata, null, 4),
+				path.join(dirName,`data/temp/parkplatz-transform-prepaired.json`),
+				JSON.stringify(PTdata), // , null, 4
 				function (err) {
 					console.log('Data prepaired !');
 					mainCallback();

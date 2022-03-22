@@ -52,7 +52,7 @@ const filesWant = {
 };
 
 function toSingleCSVs(mainCallback) {
-	let parkingData = Papa.parse(fs.readFileSync('data/out/PLR_analysed.csv', 'utf-8'));
+	let parkingData = Papa.parse(fs.readFileSync(path.join(dirName,'data/out/PLR_analysed.csv'), 'utf-8'));
 	const headers = parkingData.data[0];
 	parkingData.data.splice(0, 1);
 
@@ -80,13 +80,13 @@ function toSingleCSVs(mainCallback) {
 			};
 
 			let csv = Papa.unparse(csvData, { newline: '\r\n' });
-			fs.writeFile(`data/out/${fileName}.csv`, csv, function (err) {
+			fs.writeFile(path.join(dirName,`data/out/${fileName}.csv`), csv, function (err) {
 				const updateInfo = {
 					annotate: {
 						notes: `Letzter Update: ${new Date().toLocaleDateString('de-DE')}`
 					}
 				};
-				fs.writeFile(`data/out/updateInfo.json`, JSON.stringify(updateInfo), function (err) {
+				fs.writeFile(path.join(dirName,`data/out/updateInfo.json`), JSON.stringify(updateInfo), function (err) {
 					console.log('individual csv files written');
 					callbackEach();
 				});
