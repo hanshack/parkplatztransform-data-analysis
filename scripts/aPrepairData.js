@@ -44,9 +44,11 @@ function prepairData(mainCallback) {
 
 	const strassenraum = JSON.parse(fs.readFileSync(path.join(dirName,'data/in/strassenraum.json'), 'utf-8'));
 
+	let counter = 0;
 	async.eachSeries(
 		PTdata.features,
 		function (feature, callbackEach) {
+			counter++;
 			const subsegments = feature.properties.subsegments;
 			let carCountLine = 0;
 			let constrainsCount = 0;
@@ -100,14 +102,13 @@ function prepairData(mainCallback) {
 				feature.properties.carCount = carCountPolygon;
 				feature.properties.constrains = constrainsCount;
 				feature.properties.isPartOfStrassenraum = false;
-
-				// getRelationStatusPolygon(feature, strassenraum, function (status) {
-				// 	feature.properties.isPartOfStrassenraum = status === 'in' ? true : false;
-				// 	callbackEach();
-				// });
-
-				feature.properties.isPartOfStrassenraum = true;
-				callbackEach();
+				console.log('getting polygon rel status',counter,"/", PTdata.features.length);
+				
+				getRelationStatusPolygon(feature, strassenraum, function (status) {
+					feature.properties.isPartOfStrassenraum = status === 'in' ? true : false;
+					callbackEach();
+				});
+				
 			} else {
 				console.log('Unknown GeomType!', geomType);
 				callbackEach();
