@@ -211,13 +211,13 @@ id,name,status
 7050503,Eisenacher Straße,
 8020619,Buschkrugallee Nord,
 7040406,Germaniagarten,
-2050803,Stralauer Kiez,
+2050803,Stralauer Kiez,2
 11040925,Victoriastadt,
-2040703,Wriezener Bahnhof/Entwicklungsgebiet,
-2050802,Boxhagener Platz,
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,2
+2050802,Boxhagener Platz,2
 2040702,Weberwiese,
 2040701,Andreasviertel,
-3061441,Eldenaer Straße,
+3061441,Eldenaer Straße,2
 11030618,Fennpfuhl West,
 11030619,Fennpfuhl Ost,
 11020411,Malchower Weg,
@@ -264,7 +264,7 @@ id,name,status
 9010101,Elsenstraße,
 4051446,Preußenpark,
 4051447,Ludwigkirchplatz,
-4031032,Halensee,
+4031032,Halensee,2
 4051448,Schaperstraße,
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,
 4030930,George-Grosz-Platz,
@@ -291,7 +291,7 @@ id,name,status
 4041241,Breite Straße,
 4041342,Schlangenbader Straße,
 4041240,Messelpark,
-7020204,Schöneberger Insel,
+7020204,Schöneberger Insel,2
 4041239,Stadion Wilmersdorf,
 4041238,Kissinger Straße,
 4051655,Babelsberger Straße,
@@ -338,7 +338,7 @@ id,name,status
 4020310,Park Ruhwald,
 4030415,Schloßgarten,
 4030519,Kaiserin-Augusta-Allee,
-1022101,Huttenkiez,
+1022101,Huttenkiez,2
 4030518,Tegeler Weg,
 1022202,Heidestraße,2
 5030833,Motardstraße,
