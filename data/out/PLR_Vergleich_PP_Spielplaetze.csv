@@ -10,6 +10,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Spielplatzflächen in %
 1022102,Beusselkiez,Mitte,4.1,3.0
 3071639,Bötzowstraße,Pankow,5.9,2.2
 8010302,Bouchéstraße,Neukölln,4.6,0.0
+2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,4.4,1.4
 1033201,Brunnenstraße,Mitte,3.6,1.0
 2020205,Chamissokiez,Friedrichshain-Kreuzberg,3.0,0.7
 1011301,Charitéviertel,Mitte,1.6,0.5
@@ -18,6 +19,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Spielplatzflächen in %
 4030726,Droysenstraße,Charlottenburg-Wilmersdorf,4.9,1.7
 4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,3.9,0.2
 1022106,Elberfelder Straße,Mitte,4.7,0.8
+3061441,Eldenaer Straße,Pankow,2.8,0.9
 1022104,Emdener Straße,Mitte,4.7,2.3
 3061131,Falkplatz,Pankow,4.1,1.5
 8010211,Flughafenstraße,Neukölln,5.7,1.1
@@ -26,14 +28,17 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Spielplatzflächen in %
 2020206,Graefekiez,Friedrichshain-Kreuzberg,3.6,1.0
 3061429,Greifswalder Straße,Pankow,4.2,2.6
 1011102,Großer Tiergarten,Mitte,0.6,0.4
+4031032,Halensee,Charlottenburg-Wilmersdorf,3.4,0.9
 1022207,Hansaviertel,Mitte,3.1,0.3
 8010115,Hasenheide,Neukölln,0.2,1.5
 2050601,Hausburgviertel,Friedrichshain-Kreuzberg,7.2,0.8
+1022202,Heidestraße,Mitte,0.3,1.0
 1011306,Heine-Viertel Ost,Mitte,2.9,0.4
 1011305,Heine-Viertel West,Mitte,2.6,1.4
 3061332,Helmholtzplatz,Pankow,5.6,2.1
 8010405,Hertzbergplatz,Neukölln,4.8,4.6
 1033202,Humboldthain Süd,Mitte,2.9,1.1
+1022101,Huttenkiez,Mitte,2.4,1.2
 1011401,Invalidenstraße,Mitte,2.9,2.4
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,4.2,3.1
 4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,3.3,1.0
@@ -64,8 +69,10 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Spielplatzflächen in %
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,4.5,2.3
 8010117,Schillerpromenade,Neukölln,6.5,2.2
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,3.5,0.8
+7020204,Schöneberger Insel,Tempelhof-Schöneberg,1.7,1.4
 1022201,Stephankiez,Mitte,4.4,1.0
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,0.4,0.7
+2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,2.2,0.3
 1011101,Stülerstraße,Mitte,3.2,0.0
 3071536,Teutoburger Platz,Pankow,3.4,2.1
 3071633,Thälmannpark,Pankow,3.5,2.1

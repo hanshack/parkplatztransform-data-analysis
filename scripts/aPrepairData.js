@@ -101,10 +101,13 @@ function prepairData(mainCallback) {
 				feature.properties.constrains = constrainsCount;
 				feature.properties.isPartOfStrassenraum = false;
 
-				getRelationStatusPolygon(feature, strassenraum, function (status) {
-					feature.properties.isPartOfStrassenraum = status === 'in' ? true : false;
-					callbackEach();
-				});
+				// getRelationStatusPolygon(feature, strassenraum, function (status) {
+				// 	feature.properties.isPartOfStrassenraum = status === 'in' ? true : false;
+				// 	callbackEach();
+				// });
+
+				feature.properties.isPartOfStrassenraum = true;
+				callbackEach();
 			} else {
 				console.log('Unknown GeomType!', geomType);
 				callbackEach();

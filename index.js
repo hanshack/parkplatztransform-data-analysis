@@ -12,7 +12,7 @@ const { toSingleCSVs } = require('./scripts/dToSingleCSVs');
 // run these functions in order
 async.waterfall(
 	[
-		downloadData,
+		// downloadData,
 		prepairData, // 1
 		splitData, // 2
 		analyseData, // 3
