@@ -1,16 +1,17 @@
 Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenflächen in %,Grünanlagenflächen pro Einwohner in m²
-1011303,Alexanderplatzviertel,Mitte,2.7,7.3,9.0,12.5
+1011303,Alexanderplatzviertel,Mitte,2.7,7.4,9.0,12.5
 4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,5.5,7.6,0.4,0.2
+2040701,Andreasviertel,Friedrichshain-Kreuzberg,2.7,7.7,4.8,3.5
 3061434,Anton-Saefkow-Park,Pankow,3.6,12.9,11.8,10.1
 1011402,Arkonaplatz,Mitte,5.0,10.0,7.5,3.3
-2010101,Askanischer Platz,Friedrichshain-Kreuzberg,2.3,7.0,10.0,11.0
+2010101,Askanischer Platz,Friedrichshain-Kreuzberg,2.3,7.1,10.0,11.0
 7010103,Barbarossaplatz,Tempelhof-Schöneberg,5.2,8.7,10.0,4.9
 2040501,Barnimkiez,Friedrichshain-Kreuzberg,1.3,7.4,48.7,85.1
 7020201,Bayerischer Platz,Tempelhof-Schöneberg,5.3,7.9,1.2,0.6
 1022102,Beusselkiez,Mitte,4.1,7.7,0.0,0.0
-3071639,Bötzowstraße,Pankow,5.9,9.6,6.2,2.8
+3071639,Bötzowstraße,Pankow,6.0,9.8,6.2,2.8
 8010302,Bouchéstraße,Neukölln,4.6,6.3,0.0,0.0
-2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,4.4,8.2,1.9,0.7
+2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,4.4,8.3,1.9,0.7
 1033201,Brunnenstraße,Mitte,3.6,9.6,0.0,0.0
 2020205,Chamissokiez,Friedrichshain-Kreuzberg,3.0,7.1,0.3,0.2
 1011301,Charitéviertel,Mitte,1.6,8.4,4.7,11.6
@@ -40,7 +41,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 1033202,Humboldthain Süd,Mitte,2.9,12.2,25.9,27.5
 1022101,Huttenkiez,Mitte,2.4,5.8,1.8,4.2
 1011401,Invalidenstraße,Mitte,2.9,7.0,5.1,3.3
-7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,4.2,8.1,3.1,1.6
+7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,4.2,8.3,3.1,1.6
 4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,3.3,5.2,2.2,1.0
 1011304,Karl-Marx-Allee,Mitte,5.6,10.6,4.8,4.4
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,3.1,4.7,2.8,1.3
@@ -48,14 +49,14 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 8010213,Körnerpark,Neukölln,4.5,10.4,9.5,4.3
 1011104,Körnerstraße,Mitte,2.6,6.1,5.8,4.3
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,3.2,8.1,2.0,1.3
-1011204,Leipziger Straße,Mitte,4.3,9.0,2.3,2.1
-4030724,Lietzensee,Charlottenburg-Wilmersdorf,2.7,7.6,15.9,15.4
+1011204,Leipziger Straße,Mitte,4.2,9.0,2.3,2.1
+4030724,Lietzensee,Charlottenburg-Wilmersdorf,2.8,7.9,15.9,15.4
 1022203,Lübecker Straße,Mitte,2.5,5.5,0.0,0.0
 1022206,Lüneburger Straße,Mitte,1.8,12.3,13.6,33.0
 1011103,Lützowstraße,Mitte,2.6,7.7,3.8,3.8
-2010102,Mehringplatz,Friedrichshain-Kreuzberg,1.5,4.0,4.0,3.0
+2010102,Mehringplatz,Friedrichshain-Kreuzberg,1.6,4.3,4.0,3.0
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,3.3,6.5,4.9,2.6
-7040401,Neu-Tempelhof,Tempelhof-Schöneberg,1.2,7.5,49.5,153.6
+7040401,Neu-Tempelhof,Tempelhof-Schöneberg,1.2,8.0,49.5,153.6
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,3.6,7.1,0.6,0.3
 1011105,Nördlicher Landwehrkanal,Mitte,2.0,2.9,5.5,33.1
 1011302,Oranienburger Straße,Mitte,2.9,7.3,5.8,4.8
@@ -71,20 +72,21 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,3.5,5.8,4.0,2.0
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,1.7,4.6,5.0,5.3
 1022201,Stephankiez,Mitte,4.4,15.3,12.1,9.9
-2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,0.4,2.6,7.3,17.4
+2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,0.4,3.0,7.3,17.4
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,2.2,6.2,1.2,2.1
 1011101,Stülerstraße,Mitte,3.2,7.0,0.0,0.0
 3071536,Teutoburger Platz,Pankow,3.4,6.8,1.0,0.5
 3071633,Thälmannpark,Pankow,3.5,17.6,30.3,42.3
 1022204,Thomasiusstraße,Mitte,3.5,9.9,9.8,9.1
-2050801,Traveplatz,Friedrichshain-Kreuzberg,4.4,8.4,1.9,0.7
+2050801,Traveplatz,Friedrichshain-Kreuzberg,4.5,8.7,1.9,0.7
 8010406,Treptower Straße Nord,Neukölln,2.9,8.0,0.1,0.1
 1011202,Unter den Linden Nord,Mitte,2.6,13.3,5.1,61.0
-1011203,Unter den Linden Süd,Mitte,3.1,11.3,0.9,4.3
-2020204,Urbanstraße,Friedrichshain-Kreuzberg,3.6,9.7,4.9,3.6
+1011203,Unter den Linden Süd,Mitte,3.2,11.5,0.9,4.3
+2020204,Urbanstraße,Friedrichshain-Kreuzberg,3.7,9.9,4.9,3.6
 2020203,Viktoriapark,Friedrichshain-Kreuzberg,3.3,7.8,16.8,11.4
 7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,4.5,9.5,10.1,6.0
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg,3.1,10.9,16.7,12.8
+2040702,Weberwiese,Friedrichshain-Kreuzberg,4.0,7.3,3.8,1.8
 1022103,Westhafen,Mitte,0.7,8.6,1.5,93.7
 1011201,Wilhelmstraße,Mitte,3.9,16.7,0.0,0.0
 3071638,Winsstraße,Pankow,5.0,7.8,3.4,1.2

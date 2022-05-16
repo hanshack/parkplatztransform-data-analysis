@@ -1,16 +1,17 @@
 Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrsfläche in %
-1011303,Alexanderplatzviertel,Mitte,6.5
+1011303,Alexanderplatzviertel,Mitte,6.6
 4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,14.2
+2040701,Andreasviertel,Friedrichshain-Kreuzberg,8.8
 3061434,Anton-Saefkow-Park,Pankow,11.6
 1011402,Arkonaplatz,Mitte,16.7
-2010101,Askanischer Platz,Friedrichshain-Kreuzberg,9.2
+2010101,Askanischer Platz,Friedrichshain-Kreuzberg,9.3
 7010103,Barbarossaplatz,Tempelhof-Schöneberg,24.3
 2040501,Barnimkiez,Friedrichshain-Kreuzberg,12.6
 7020201,Bayerischer Platz,Tempelhof-Schöneberg,14.2
 1022102,Beusselkiez,Mitte,13.1
-3071639,Bötzowstraße,Pankow,18.4
+3071639,Bötzowstraße,Pankow,18.8
 8010302,Bouchéstraße,Neukölln,14.6
-2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,15.8
+2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,16.1
 1033201,Brunnenstraße,Mitte,12.8
 2020205,Chamissokiez,Friedrichshain-Kreuzberg,17.1
 1011301,Charitéviertel,Mitte,10.0
@@ -40,7 +41,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1033202,Humboldthain Süd,Mitte,13.7
 1022101,Huttenkiez,Mitte,13.0
 1011401,Invalidenstraße,Mitte,18.9
-7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,14.1
+7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,14.4
 4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,12.0
 1011304,Karl-Marx-Allee,Mitte,9.1
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,15.3
@@ -48,14 +49,14 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 8010213,Körnerpark,Neukölln,19.8
 1011104,Körnerstraße,Mitte,8.7
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,11.6
-1011204,Leipziger Straße,Mitte,9.6
-4030724,Lietzensee,Charlottenburg-Wilmersdorf,16.8
+1011204,Leipziger Straße,Mitte,9.5
+4030724,Lietzensee,Charlottenburg-Wilmersdorf,17.4
 1022203,Lübecker Straße,Mitte,12.3
 1022206,Lüneburger Straße,Mitte,6.1
 1011103,Lützowstraße,Mitte,9.0
-2010102,Mehringplatz,Friedrichshain-Kreuzberg,6.8
+2010102,Mehringplatz,Friedrichshain-Kreuzberg,7.2
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,14.1
-7040401,Neu-Tempelhof,Tempelhof-Schöneberg,11.9
+7040401,Neu-Tempelhof,Tempelhof-Schöneberg,12.7
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,10.2
 1011105,Nördlicher Landwehrkanal,Mitte,5.5
 1011302,Oranienburger Straße,Mitte,12.0
@@ -71,20 +72,21 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,8.7
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,11.3
 1022201,Stephankiez,Mitte,17.5
-2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,6.1
+2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,6.9
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,12.2
 1011101,Stülerstraße,Mitte,7.8
 3071536,Teutoburger Platz,Pankow,12.7
 3071633,Thälmannpark,Pankow,12.3
 1022204,Thomasiusstraße,Mitte,18.0
-2050801,Traveplatz,Friedrichshain-Kreuzberg,16.8
+2050801,Traveplatz,Friedrichshain-Kreuzberg,17.4
 8010406,Treptower Straße Nord,Neukölln,18.4
 1011202,Unter den Linden Nord,Mitte,5.4
-1011203,Unter den Linden Süd,Mitte,7.9
-2020204,Urbanstraße,Friedrichshain-Kreuzberg,11.5
+1011203,Unter den Linden Süd,Mitte,8.0
+2020204,Urbanstraße,Friedrichshain-Kreuzberg,11.8
 2020203,Viktoriapark,Friedrichshain-Kreuzberg,11.4
 7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,11.2
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg,10.8
+2040702,Weberwiese,Friedrichshain-Kreuzberg,19.1
 1022103,Westhafen,Mitte,4.2
 1011201,Wilhelmstraße,Mitte,6.3
 3071638,Winsstraße,Pankow,23.3
