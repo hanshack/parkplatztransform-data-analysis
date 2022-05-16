@@ -94,7 +94,7 @@ Auswahl an Charts die mit den Daten aus dem Repo erstellt wurden:
 - Parkplätze #e347a1
 - Grün #09bb9f
 - Neutral #1d81a2
-- Strassenfläche #e347a1
+- Strassenfläche #e347a1 & schraffiert 2. Feld von rechts (Südwest nach Nordost)
 
 
 
