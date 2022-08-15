@@ -162,7 +162,7 @@ id,name,status
 10020621,Gelbes Viertel,
 10020620,Kaulsdorf Nord II,
 10020518,Schleipfuhl,
-3061435,Conrad-Blenkle-Straße,
+3061435,Conrad-Blenkle-Straße,2
 3061430,Volkspark Prenzlauer Berg,
 11030617,Hohenschönhausener Straße,
 11020515,Landsberger Allee,
@@ -261,21 +261,21 @@ id,name,status
 9010202,Köpenicker Landstraße,
 9010201,Am Treptower Park Süd,
 9010102,Am Treptower Park Nord,
-9010101,Elsenstraße,
+9010101,Elsenstraße,2 
 4051446,Preußenpark,
 4051447,Ludwigkirchplatz,
 4031032,Halensee,2
 4051448,Schaperstraße,
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,
 4030930,George-Grosz-Platz,
-4030931,Breitscheidplatz,
+4030931,Breitscheidplatz,2
 4030929,Hindemithplatz,
 4030828,Savignyplatz,
 4030623,Ernst-Reuter-Platz,
 4020313,Königin-Elisabeth-Straße,
 4030622,Richard-Wagner-Straße,
 4030621,Spreestadt,
-4030620,Alt-Lietzow,
+4030620,Alt-Lietzow,2
 6040810,Dahlem,
 7040403,Manteuffelstraße,
 6010101,Fichtenberg,
