@@ -4,7 +4,7 @@ module.exports = { splitData };
 
 const fs = require('fs');
 const async = require('async');
-const { getRelationStatusLine, getRelationStatusPolygon } = require(path.join(dirName,'scripts//utils/getRelationStatus'));
+const { getRelationStatusLine, getRelationStatusPolygon } = require(path.join(dirName,'scripts/utils/getRelationStatus'));
 const intersects = require('@turf/boolean-intersects').default;
 const area = require('@turf/area').default;
 
@@ -51,7 +51,6 @@ function splitData(mainCallback) {
 				return;
 			}
 
-			console.log('adminArea', adminName);
 			const featuresIntersecting = {
 				type: 'FeatureCollection',
 				properties: { name: adminName, id: adminId, size: Math.round(area(adminArea)) },
@@ -67,13 +66,21 @@ function splitData(mainCallback) {
 			async.eachSeries(
 				PTdata.features,
 				function (feature, featuresCallback) {
-					const featureType = feature.geometry.type;
+
+					const featureType = feature.geometry?.type;		
+					
+					if(!featureType){
+						featuresCallback();
+						return
+					}
+					
 
 					// check if feature is intersecting
-					if (intersects(adminArea, feature)) {
+					if (intersects(adminArea, feature.geometry)) {
+
 						// handle line string
 						if (featureType === 'LineString') {
-							getRelationStatusLine(feature, adminArea, function (status) {
+							getRelationStatusLine(feature.geometry, adminArea, function (status) {
 								if (status === 'in' || status === 'inout') {
 									featuresIntersecting.features.push(feature);
 								}
@@ -95,7 +102,7 @@ function splitData(mainCallback) {
 							});
 						}
 					} else {
-						// no intersection so ignore
+						// no intersection so ignore						
 						featuresCallback();
 					}
 				},

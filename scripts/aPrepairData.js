@@ -52,8 +52,9 @@ function prepairData(mainCallback) {
 			const subsegments = feature.properties.subsegments;
 			let carCountLine = 0;
 			let constrainsCount = 0;
-			// either LineString or Polygon
-			const geomType = feature.geometry.type;
+			// should be either LineString or Polygon
+			const geomType = feature.geometry?.type;
+		
 			if (geomType === 'LineString') {
 				subsegments.forEach((segment) => {
 					let carsSegement = 0;
@@ -69,8 +70,8 @@ function prepairData(mainCallback) {
 						}
 					}
 					// there is a car count
-					else if (segment.car_count && segment.parking_allowed) {
-						carsSegement = segment.car_count;
+					else if (segment.car_count && !isNaN(Number(segment.car_count)) && segment.parking_allowed) {
+						carsSegement = Number(segment.car_count);
 					}
 
 					carCountLine += carsSegement;
@@ -80,7 +81,7 @@ function prepairData(mainCallback) {
 					}
 				});
 
-				const lineLength = getLineLength(feature) * 1000;
+				const lineLength = getLineLength(feature.geometry) * 1000;
 				feature.properties.lineLength = lineLength;
 				feature.properties.carCount = carCountLine;
 				feature.properties.carsPerLength = carCountLine / lineLength;
@@ -110,7 +111,7 @@ function prepairData(mainCallback) {
 				});
 				
 			} else {
-				console.log('Unknown GeomType!', geomType);
+				console.log('Unknown geom type or no geom!: ', geomType);
 				callbackEach();
 			}
 		},
