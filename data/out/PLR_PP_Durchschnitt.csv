@@ -31,6 +31,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 2040502,Friedenstraße,Friedrichshain-Kreuzberg,1723,1696,1749
 4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,199,116,282
 8010407,Gewerbegebiet Ederstraße,Neukölln,388,388,388
+2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,240,199,280
 2020206,Graefekiez,Friedrichshain-Kreuzberg,2978,2744,3211
 3061429,Greifswalder Straße,Pankow,2892,2892,2892
 1011102,Großer Tiergarten,Mitte,1061,991,1131
@@ -96,6 +97,8 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1011201,Wilhelmstraße,Mitte,963,953,972
 3071638,Winsstraße,Pankow,2291,2225,2356
 8010116,Wissmannstraße,Neukölln,372,345,398
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,1686,1602,1769
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,1513,1471,1554
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,784,784,784
 1022205,Zillesiedlung,Mitte,472,472,472
 1022105,Zwinglistraße,Mitte,309,309,309

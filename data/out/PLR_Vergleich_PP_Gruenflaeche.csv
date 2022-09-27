@@ -31,6 +31,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 2040502,Friedenstraße,Friedrichshain-Kreuzberg,3.2,10.8,4.3,3.7
 4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,0.5,0.7,0.0,0.0
 8010407,Gewerbegebiet Ederstraße,Neukölln,2.0,12.2,0.0,0.0
+2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,0.4,5.5,37.6,143.3
 2020206,Graefekiez,Friedrichshain-Kreuzberg,3.8,8.7,3.5,1.8
 3061429,Greifswalder Straße,Pankow,4.2,12.8,11.4,9.8
 1011102,Großer Tiergarten,Mitte,0.4,42.4,72.0,11153.9
@@ -96,6 +97,8 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 1011201,Wilhelmstraße,Mitte,1.9,8.2,0.0,0.0
 3071638,Winsstraße,Pankow,4.4,7.0,3.4,1.2
 8010116,Wissmannstraße,Neukölln,2.8,6.7,9.2,4.2
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,3.4,6.0,1.1,0.7
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,3.6,8.0,2.0,1.0
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,1.1,0.7,7.1,56.7
 1022205,Zillesiedlung,Mitte,3.4,7.8,1.9,1.0
 1022105,Zwinglistraße,Mitte,2.3,3.5,6.5,2.1
