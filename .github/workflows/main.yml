@@ -27,6 +27,9 @@ jobs:
       - uses: actions/checkout@main
 
       # Runs a single command using the runners shell
+      - name: pull
+        run: git pull
+        
       - name: Install
         run: npm install
 
