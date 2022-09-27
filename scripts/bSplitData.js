@@ -109,12 +109,12 @@ function splitData(mainCallback) {
 				function (err) {
 					if (featuresIntersecting.features.length !== 0) {
 						fs.writeFile(
-							path.join(dirName,`data/temp/streets/intersections/${adminName}.json`),
+							path.join(dirName,`data/temp/streets/intersections/${adminName.replace(/\//g, '\u2215')}.json`),
 							JSON.stringify(featuresIntersecting, null, 4),
 							function (err) {
 								// when done writing
 								fs.writeFile(
-									path.join(dirName,`data/temp/streets/within/${adminName}.json`),
+									path.join(dirName,`data/temp/streets/within/${adminName.replace(/\//g, '\u2215')}.json`),
 									JSON.stringify(featuresWithin, null, 4),
 									function (err) {
 										// when done writing
