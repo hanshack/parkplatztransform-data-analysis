@@ -6,6 +6,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 3061434,Anton-Saefkow-Park,Pankow,1542,1542,1542
 1011402,Arkonaplatz,Mitte,2398,2359,2436
 2010101,Askanischer Platz,Friedrichshain-Kreuzberg,1317,1291,1343
+4051655,Babelsberger Straße,Charlottenburg-Wilmersdorf,1954,1939,1968
 7010103,Barbarossaplatz,Tempelhof-Schöneberg,2101,2034,2168
 2040501,Barnimkiez,Friedrichshain-Kreuzberg,975,953,997
 7020201,Bayerischer Platz,Tempelhof-Schöneberg,2237,2227,2246
@@ -20,8 +21,8 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 3061435,Conrad-Blenkle-Straße,Pankow,987,987,987
 7010104,Dennewitzplatz,Tempelhof-Schöneberg,2309,2309,2309
 8010303,Donaustraße,Neukölln,813,807,818
-4030726,Droysenstraße,Charlottenburg-Wilmersdorf,1246,1221,1271
-4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,2219,2207,2231
+4030726,Droysenstraße,Charlottenburg-Wilmersdorf,1251,1221,1280
+4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,2268,2207,2328
 1022106,Elberfelder Straße,Mitte,2150,2138,2162
 3061441,Eldenaer Straße,Pankow,1295,1295,1295
 9010101,Elsenstraße,Treptow-Köpenick,3151,3114,3188
@@ -29,7 +30,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 3061131,Falkplatz,Pankow,2389,2330,2448
 8010211,Flughafenstraße,Neukölln,1357,1328,1386
 2040502,Friedenstraße,Friedrichshain-Kreuzberg,1723,1696,1749
-4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,199,116,282
+4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,1464,1215,1712
 8010407,Gewerbegebiet Ederstraße,Neukölln,388,388,388
 2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,240,199,280
 2020206,Graefekiez,Friedrichshain-Kreuzberg,2978,2744,3211
@@ -44,13 +45,15 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1011305,Heine-Viertel West,Mitte,1308,1304,1312
 3061332,Helmholtzplatz,Pankow,3177,3132,3221
 8010405,Hertzbergplatz,Neukölln,1532,1513,1551
+4030929,Hindemithplatz,Charlottenburg-Wilmersdorf,1294,1272,1316
+1033203,Humboldthain Nordwest,Mitte,1316,1258,1373
 1033202,Humboldthain Süd,Mitte,2472,2432,2512
 1022101,Huttenkiez,Mitte,1288,1265,1311
 1011401,Invalidenstraße,Mitte,2699,2673,2724
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,2895,2794,2996
-4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,1467,1467,1467
+4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,1607,1593,1621
 1011304,Karl-Marx-Allee,Mitte,1928,1684,2172
-4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,1170,1170,1170
+4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,1251,1251,1251
 3071537,Kollwitzplatz,Pankow,3120,3087,3152
 8010213,Körnerpark,Neukölln,2056,1969,2142
 1011104,Körnerstraße,Mitte,697,683,711
@@ -67,6 +70,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1011105,Nördlicher Landwehrkanal,Mitte,1062,1062,1062
 1011302,Oranienburger Straße,Mitte,2331,2275,2386
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,1477,1365,1588
+4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,1298,1164,1431
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,815,774,855
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg,2072,2010,2133
 8010301,Reuterkiez,Neukölln,4464,4464,4464
