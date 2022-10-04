@@ -269,7 +269,7 @@ id,name,status
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,2
 4030930,George-Grosz-Platz,2
 4030931,Breitscheidplatz,2
-4030929,Hindemithplatz,
+4030929,Hindemithplatz,2
 4030828,Savignyplatz,
 4030623,Ernst-Reuter-Platz,
 4020313,Königin-Elisabeth-Straße,
@@ -294,12 +294,12 @@ id,name,status
 7020204,Schöneberger Insel,2
 4041239,Stadion Wilmersdorf,
 4041238,Kissinger Straße,
-4051655,Babelsberger Straße,
+4051655,Babelsberger Straße,2
 4051656,Hildegardstraße,
 4051551,Brabanter Platz,
 4041137,Flinsberger Platz,
 4051654,Wilhelmsaue,
-4051549,Rathaus Wilmersdorf,
+4051549,Rathaus Wilmersdorf,2
 4051652,Nikolsburger Platz,
 4051550,Leon-Jessel-Platz,
 4051653,Prager Platz,
@@ -344,7 +344,7 @@ id,name,status
 5030833,Motardstraße,
 4010101,Jungfernheide,
 4010103,Paul-Hertz-Siedlung,
-1033203,Humboldthain Nordwest,
+1033203,Humboldthain Nordwest,2
 4010102,Plötzensee,
 5030832,Rohrdamm,
 1044202,Sparrplatz,
