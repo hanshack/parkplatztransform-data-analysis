@@ -70,8 +70,8 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1011105,Nördlicher Landwehrkanal,Mitte,5.5
 1011302,Oranienburger Straße,Mitte,12.1
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,14.2
-4051446,Preußenpark,Charlottenburg-Wilmersdorf,13.4
-4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,10.6
+4051446,Preußenpark,Charlottenburg-Wilmersdorf,15.5
+4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,10.7
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,9.8
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg,13.4
 8010301,Reuterkiez,Neukölln,18.5
@@ -79,6 +79,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 8010404,Rixdorf,Neukölln,16.6
 8010212,Rollberg,Neukölln,15.7
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,15.0
+4030828,Savignyplatz,Charlottenburg-Wilmersdorf,17.7
 8010117,Schillerpromenade,Neukölln,19.7
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,8.7
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,11.3
@@ -87,6 +88,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,6.9
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,12.2
 1011101,Stülerstraße,Mitte,8.8
+4030518,Tegeler Weg,Charlottenburg-Wilmersdorf,15.5
 3071536,Teutoburger Platz,Pankow,12.7
 3071633,Thälmannpark,Pankow,9.5
 1022204,Thomasiusstraße,Mitte,18.0
