@@ -14,6 +14,7 @@ Schlüssel,Name,Bezirk
 3071639,Bötzowstraße,Pankow
 8010302,Bouchéstraße,Neukölln
 2050802,Boxhagener Platz,Friedrichshain-Kreuzberg
+4051551,Brabanter Platz,Charlottenburg-Wilmersdorf
 4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf
 1033201,Brunnenstraße,Mitte
 2020205,Chamissokiez,Friedrichshain-Kreuzberg
@@ -27,6 +28,7 @@ Schlüssel,Name,Bezirk
 3061441,Eldenaer Straße,Pankow
 9010101,Elsenstraße,Treptow-Köpenick
 1022104,Emdener Straße,Mitte
+4030623,Ernst-Reuter-Platz,Charlottenburg-Wilmersdorf
 3061131,Falkplatz,Pankow
 8010211,Flughafenstraße,Neukölln
 2040502,Friedenstraße,Friedrichshain-Kreuzberg
@@ -76,14 +78,17 @@ Schlüssel,Name,Bezirk
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg
 8010301,Reuterkiez,Neukölln
 2040503,Richard-Sorge-Viertel,Friedrichshain-Kreuzberg
+4030622,Richard-Wagner-Straße,Charlottenburg-Wilmersdorf
 8010404,Rixdorf,Neukölln
 8010212,Rollberg,Neukölln
 2050602,Samariterviertel,Friedrichshain-Kreuzberg
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf
 8010117,Schillerpromenade,Neukölln
+4030415,Schloßgarten,Charlottenburg-Wilmersdorf
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf
 7020204,Schöneberger Insel,Tempelhof-Schöneberg
 8010118,Silbersteinstraße,Neukölln
+4030621,Spreestadt,Charlottenburg-Wilmersdorf
 1022201,Stephankiez,Mitte
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg
@@ -102,6 +107,7 @@ Schlüssel,Name,Bezirk
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg
 2040702,Weberwiese,Friedrichshain-Kreuzberg
 1022103,Westhafen,Mitte
+4051654,Wilhelmsaue,Charlottenburg-Wilmersdorf
 1011201,Wilhelmstraße,Mitte
 3071638,Winsstraße,Pankow
 8010116,Wissmannstraße,Neukölln
