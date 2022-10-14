@@ -271,10 +271,10 @@ id,name,status
 4030931,Breitscheidplatz,2
 4030929,Hindemithplatz,2
 4030828,Savignyplatz,2
-4030623,Ernst-Reuter-Platz,
+4030623,Ernst-Reuter-Platz,2
 4020313,Königin-Elisabeth-Straße,
-4030622,Richard-Wagner-Straße,
-4030621,Spreestadt,
+4030622,Richard-Wagner-Straße,2
+4030621,Spreestadt,2
 4030620,Alt-Lietzow,2
 6040810,Dahlem,
 7040403,Manteuffelstraße,
@@ -296,9 +296,9 @@ id,name,status
 4041238,Kissinger Straße,
 4051655,Babelsberger Straße,2
 4051656,Hildegardstraße,
-4051551,Brabanter Platz,
+4051551,Brabanter Platz,2
 4041137,Flinsberger Platz,
-4051654,Wilhelmsaue,
+4051654,Wilhelmsaue,2
 4051549,Rathaus Wilmersdorf,2
 4051652,Nikolsburger Platz,
 4051550,Leon-Jessel-Platz,
@@ -336,7 +336,7 @@ id,name,status
 6010102,Schloßstraße,
 4020205,Siedlung Ruhleben,
 4020310,Park Ruhwald,
-4030415,Schloßgarten,
+4030415,Schloßgarten,2
 4030519,Kaiserin-Augusta-Allee,
 1022101,Huttenkiez,2
 4030518,Tegeler Weg,2
