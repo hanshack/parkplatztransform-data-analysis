@@ -1,12 +1,12 @@
 Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenflächen in %,Grünanlagenflächen pro Einwohner in m²
-1011303,Alexanderplatzviertel,Mitte,2.5,6.8,9.0,12.5
+1011303,Alexanderplatzviertel,Mitte,2.6,7.0,9.0,12.5
 4030620,Alt-Lietzow,Charlottenburg-Wilmersdorf,3.7,7.4,7.2,4.3
 4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,5.4,7.5,0.4,0.2
 2040701,Andreasviertel,Friedrichshain-Kreuzberg,2.6,7.3,4.8,3.5
 3061434,Anton-Saefkow-Park,Pankow,3.5,12.4,11.8,10.1
 1011402,Arkonaplatz,Mitte,5.0,10.0,7.5,3.3
 2010101,Askanischer Platz,Friedrichshain-Kreuzberg,2.3,7.1,10.0,11.0
-4051655,Babelsberger Straße,Charlottenburg-Wilmersdorf,4.2,9.1,10.6,8.3
+4051655,Babelsberger Straße,Charlottenburg-Wilmersdorf,4.4,9.5,10.6,8.3
 7010103,Barbarossaplatz,Tempelhof-Schöneberg,5.1,8.6,10.0,4.9
 2040501,Barnimkiez,Friedrichshain-Kreuzberg,1.3,7.3,48.7,85.1
 7020201,Bayerischer Platz,Tempelhof-Schöneberg,5.3,7.9,1.2,0.6
@@ -15,7 +15,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 8010302,Bouchéstraße,Neukölln,5.5,7.5,0.0,0.0
 2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,4.7,8.9,1.9,0.7
 4051551,Brabanter Platz,Charlottenburg-Wilmersdorf,3.3,9.4,0.9,0.8
-4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf,2.9,5.1,0.0,0.0
+4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf,3.0,5.4,0.0,0.0
 1033201,Brunnenstraße,Mitte,3.4,9.1,0.0,0.0
 2020205,Chamissokiez,Friedrichshain-Kreuzberg,3.0,7.1,0.3,0.2
 1011301,Charitéviertel,Mitte,1.6,8.7,4.7,11.6
@@ -53,6 +53,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 1022101,Huttenkiez,Mitte,2.0,4.8,1.8,4.2
 1011401,Invalidenstraße,Mitte,2.9,7.0,5.1,3.3
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,4.0,7.7,3.1,1.6
+4030519,Kaiserin-Augusta-Allee,Charlottenburg-Wilmersdorf,1.8,9.2,4.4,10.1
 4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,3.4,5.4,2.2,1.0
 1011304,Karl-Marx-Allee,Mitte,3.0,5.6,4.8,4.4
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,3.3,5.1,2.8,1.3
@@ -70,7 +71,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,1.2,7.6,49.5,153.6
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,3.8,7.5,0.6,0.3
 1011105,Nördlicher Landwehrkanal,Mitte,1.4,2.0,5.5,33.1
-1011302,Oranienburger Straße,Mitte,2.9,7.3,5.8,4.8
+1011302,Oranienburger Straße,Mitte,3.0,7.7,5.8,4.8
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,3.8,8.3,14.9,8.1
 4051446,Preußenpark,Charlottenburg-Wilmersdorf,5.8,8.5,9.5,5.4
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,2.5,8.9,7.7,10.9
@@ -93,7 +94,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,0.4,3.0,7.3,17.4
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,1.7,4.6,1.2,2.1
 1011101,Stülerstraße,Mitte,3.3,7.0,0.0,0.0
-4030518,Tegeler Weg,Charlottenburg-Wilmersdorf,4.9,8.6,3.0,1.6
+4030518,Tegeler Weg,Charlottenburg-Wilmersdorf,5.0,8.8,3.0,1.6
 3071536,Teutoburger Platz,Pankow,3.4,6.8,1.0,0.5
 3071633,Thälmannpark,Pankow,2.4,12.1,30.3,42.3
 1022204,Thomasiusstraße,Mitte,3.1,8.9,9.8,9.1
@@ -111,7 +112,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,PP Fläche pro Kfz in m²,Grünanlagenfl�
 1011201,Wilhelmstraße,Mitte,1.9,8.2,0.0,0.0
 3071638,Winsstraße,Pankow,4.4,7.0,3.4,1.2
 8010116,Wissmannstraße,Neukölln,2.8,6.7,9.2,4.2
-7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,3.4,6.0,1.1,0.7
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,3.5,6.2,1.1,0.7
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,3.6,8.0,2.0,1.0
 2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,1.1,0.7,7.1,56.7
 1022205,Zillesiedlung,Mitte,3.4,7.8,1.9,1.0
