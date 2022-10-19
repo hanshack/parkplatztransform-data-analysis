@@ -263,9 +263,9 @@ id,name,status
 9010102,Am Treptower Park Nord,
 9010101,Elsenstraße,2 
 4051446,Preußenpark,2
-4051447,Ludwigkirchplatz,
+4051447,Ludwigkirchplatz, 2
 4031032,Halensee,2
-4051448,Schaperstraße,
+4051448,Schaperstraße,2
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,2
 4030930,George-Grosz-Platz,2
 4030931,Breitscheidplatz,2
@@ -302,7 +302,7 @@ id,name,status
 4051549,Rathaus Wilmersdorf,2
 4051652,Nikolsburger Platz,
 4051550,Leon-Jessel-Platz,
-4051653,Prager Platz,
+4051653,Prager Platz, 2
 7060604,Marienfelde Süd,
 7060603,Marienfelde Nordost,
 6020407,Thermometersiedlung,
