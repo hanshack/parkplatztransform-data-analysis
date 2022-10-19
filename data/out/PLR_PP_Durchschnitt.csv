@@ -13,7 +13,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1022102,Beusselkiez,Mitte,766,766,766
 3071639,Bötzowstraße,Pankow,2670,2651,2689
 8010302,Bouchéstraße,Neukölln,616,589,642
-2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,3146,3139,3152
+2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,3180,3173,3186
 4051551,Brabanter Platz,Charlottenburg-Wilmersdorf,1104,1009,1199
 4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf,1468,1412,1523
 1033201,Brunnenstraße,Mitte,2103,2066,2139
@@ -61,18 +61,20 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 8010213,Körnerpark,Neukölln,2056,1969,2142
 1011104,Körnerstraße,Mitte,697,683,711
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,2145,2137,2152
-1011204,Leipziger Straße,Mitte,2112,2075,2149
+1011204,Leipziger Straße,Mitte,2233,2196,2270
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,1434,1301,1567
 1022203,Lübecker Straße,Mitte,650,639,661
+4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,687,681,693
 1022206,Lüneburger Straße,Mitte,980,939,1021
 1011103,Lützowstraße,Mitte,877,818,935
-2010102,Mehringplatz,Friedrichshain-Kreuzberg,1335,1269,1400
+2010102,Mehringplatz,Friedrichshain-Kreuzberg,1392,1326,1457
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,2096,2037,2154
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,5125,4970,5279
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,2624,2600,2647
 1011105,Nördlicher Landwehrkanal,Mitte,1062,1062,1062
 1011302,Oranienburger Straße,Mitte,2445,2389,2500
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,1477,1365,1588
+4051653,Prager Platz,Charlottenburg-Wilmersdorf,1271,1257,1285
 4051446,Preußenpark,Charlottenburg-Wilmersdorf,2879,2839,2919
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,1360,1164,1555
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,815,774,855
@@ -84,9 +86,10 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 8010212,Rollberg,Neukölln,1217,1102,1332
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,3471,3461,3480
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,2032,1736,2328
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,2386,2286,2486
 8010117,Schillerpromenade,Neukölln,2702,2521,2882
-4030415,Schloßgarten,Charlottenburg-Wilmersdorf,503,451,554
-4030417,Schloßstraße,Charlottenburg-Wilmersdorf,1585,1577,1593
+4030415,Schloßgarten,Charlottenburg-Wilmersdorf,553,451,655
+4030417,Schloßstraße,Charlottenburg-Wilmersdorf,2361,2302,2419
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,1700,1700,1700
 8010118,Silbersteinstraße,Neukölln,1539,1505,1573
 4030621,Spreestadt,Charlottenburg-Wilmersdorf,1413,1413,1413
@@ -101,19 +104,19 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 2050801,Traveplatz,Friedrichshain-Kreuzberg,3070,3054,3086
 8010406,Treptower Straße Nord,Neukölln,1122,1122,1122
 1011202,Unter den Linden Nord,Mitte,1075,1074,1076
-1011203,Unter den Linden Süd,Mitte,1214,1214,1214
+1011203,Unter den Linden Süd,Mitte,1231,1231,1231
 2020204,Urbanstraße,Friedrichshain-Kreuzberg,2525,2272,2777
 2020203,Viktoriapark,Friedrichshain-Kreuzberg,1848,1691,2005
 7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,2142,2084,2200
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg,936,912,959
-2040702,Weberwiese,Friedrichshain-Kreuzberg,1735,1735,1735
+2040702,Weberwiese,Friedrichshain-Kreuzberg,1764,1764,1764
 1022103,Westhafen,Mitte,408,385,431
 4051654,Wilhelmsaue,Charlottenburg-Wilmersdorf,745,730,759
-1011201,Wilhelmstraße,Mitte,963,953,972
+1011201,Wilhelmstraße,Mitte,981,971,990
 3071638,Winsstraße,Pankow,2291,2225,2356
 8010116,Wissmannstraße,Neukölln,372,345,398
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,1742,1661,1822
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,1513,1471,1554
-2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,784,784,784
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,1031,1031,1031
 1022205,Zillesiedlung,Mitte,472,472,472
 1022105,Zwinglistraße,Mitte,309,309,309

@@ -13,7 +13,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1022102,Beusselkiez,Mitte,13.1
 3071639,Bötzowstraße,Pankow,18.8
 8010302,Bouchéstraße,Neukölln,17.5
-2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,17.2
+2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,17.3
 4051551,Brabanter Platz,Charlottenburg-Wilmersdorf,7.2
 4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf,7.3
 1033201,Brunnenstraße,Mitte,12.7
@@ -61,18 +61,20 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 8010213,Körnerpark,Neukölln,20.4
 1011104,Körnerstraße,Mitte,8.7
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,11.7
-1011204,Leipziger Straße,Mitte,9.5
+1011204,Leipziger Straße,Mitte,10.0
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,17.4
 1022203,Lübecker Straße,Mitte,12.3
+4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,11.2
 1022206,Lüneburger Straße,Mitte,5.8
 1011103,Lützowstraße,Mitte,9.1
-2010102,Mehringplatz,Friedrichshain-Kreuzberg,7.2
+2010102,Mehringplatz,Friedrichshain-Kreuzberg,7.5
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,14.1
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,12.3
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,10.8
 1011105,Nördlicher Landwehrkanal,Mitte,5.5
 1011302,Oranienburger Straße,Mitte,12.6
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,14.2
+4051653,Prager Platz,Charlottenburg-Wilmersdorf,11.8
 4051446,Preußenpark,Charlottenburg-Wilmersdorf,16.2
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,11.1
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,9.8
@@ -84,9 +86,10 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 8010212,Rollberg,Neukölln,15.7
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,15.0
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,17.7
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,12.7
 8010117,Schillerpromenade,Neukölln,19.7
-4030415,Schloßgarten,Charlottenburg-Wilmersdorf,7.4
-4030417,Schloßstraße,Charlottenburg-Wilmersdorf,8.8
+4030415,Schloßgarten,Charlottenburg-Wilmersdorf,8.2
+4030417,Schloßstraße,Charlottenburg-Wilmersdorf,13.1
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,11.3
 8010118,Silbersteinstraße,Neukölln,16.9
 4030621,Spreestadt,Charlottenburg-Wilmersdorf,12.3
@@ -101,19 +104,19 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 2050801,Traveplatz,Friedrichshain-Kreuzberg,18.9
 8010406,Treptower Straße Nord,Neukölln,20.9
 1011202,Unter den Linden Nord,Mitte,5.4
-1011203,Unter den Linden Süd,Mitte,8.0
+1011203,Unter den Linden Süd,Mitte,8.1
 2020204,Urbanstraße,Friedrichshain-Kreuzberg,11.0
 2020203,Viktoriapark,Friedrichshain-Kreuzberg,10.8
 7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,10.8
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg,10.4
-2040702,Weberwiese,Friedrichshain-Kreuzberg,19.1
+2040702,Weberwiese,Friedrichshain-Kreuzberg,19.4
 1022103,Westhafen,Mitte,4.2
 4051654,Wilhelmsaue,Charlottenburg-Wilmersdorf,12.8
-1011201,Wilhelmstraße,Mitte,6.3
+1011201,Wilhelmstraße,Mitte,6.4
 3071638,Winsstraße,Pankow,23.9
 8010116,Wissmannstraße,Neukölln,26.8
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,10.4
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,15.5
-2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,5.8
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,7.6
 1022205,Zillesiedlung,Mitte,22.1
 1022105,Zwinglistraße,Mitte,16.9
