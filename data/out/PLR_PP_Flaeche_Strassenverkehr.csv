@@ -1,7 +1,7 @@
 Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrsfläche in %
 1011303,Alexanderplatzviertel,Mitte,6.7
 4030620,Alt-Lietzow,Charlottenburg-Wilmersdorf,11.8
-4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,14.2
+4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,15.1
 2040701,Andreasviertel,Friedrichshain-Kreuzberg,8.4
 3061434,Anton-Saefkow-Park,Pankow,11.6
 1011402,Arkonaplatz,Mitte,16.7
@@ -22,7 +22,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 3061435,Conrad-Blenkle-Straße,Pankow,11.6
 7010104,Dennewitzplatz,Tempelhof-Schöneberg,12.3
 8010303,Donaustraße,Neukölln,12.6
-4030726,Droysenstraße,Charlottenburg-Wilmersdorf,13.0
+4030726,Droysenstraße,Charlottenburg-Wilmersdorf,14.7
 4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,13.6
 1022106,Elberfelder Straße,Mitte,15.6
 3061441,Eldenaer Straße,Pankow,13.4
@@ -32,7 +32,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 3061131,Falkplatz,Pankow,16.8
 8010211,Flughafenstraße,Neukölln,17.3
 2040502,Friedenstraße,Friedrichshain-Kreuzberg,13.9
-4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,11.8
+4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,12.6
 8010407,Gewerbegebiet Ederstraße,Neukölln,16.6
 2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,7.5
 2020206,Graefekiez,Friedrichshain-Kreuzberg,13.7
@@ -47,14 +47,15 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1011305,Heine-Viertel West,Mitte,11.2
 3061332,Helmholtzplatz,Pankow,20.4
 8010405,Hertzbergplatz,Neukölln,21.1
-4030929,Hindemithplatz,Charlottenburg-Wilmersdorf,15.8
-1033203,Humboldthain Nordwest,Mitte,5.2
+4051656,Hildegardstraße,Charlottenburg-Wilmersdorf,14.1
+4030929,Hindemithplatz,Charlottenburg-Wilmersdorf,16.6
+1033203,Humboldthain Nordwest,Mitte,5.6
 1033202,Humboldthain Süd,Mitte,13.7
 1022101,Huttenkiez,Mitte,13.0
 1011401,Invalidenstraße,Mitte,18.9
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,15.0
 4030519,Kaiserin-Augusta-Allee,Charlottenburg-Wilmersdorf,12.2
-4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,12.5
+4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,12.8
 1011304,Karl-Marx-Allee,Mitte,9.2
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,16.3
 3071537,Kollwitzplatz,Pankow,16.1
@@ -62,20 +63,22 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1011104,Körnerstraße,Mitte,8.7
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,11.7
 1011204,Leipziger Straße,Mitte,10.0
+4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,12.8
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,17.4
 1022203,Lübecker Straße,Mitte,12.3
-4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,11.2
+4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,17.4
 1022206,Lüneburger Straße,Mitte,5.8
-1011103,Lützowstraße,Mitte,9.1
+1011103,Lützowstraße,Mitte,9.7
 2010102,Mehringplatz,Friedrichshain-Kreuzberg,7.5
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,14.1
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,12.3
+4051652,Nikolsburger Platz,Charlottenburg-Wilmersdorf,21.0
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,10.8
 1011105,Nördlicher Landwehrkanal,Mitte,5.5
 1011302,Oranienburger Straße,Mitte,12.6
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,14.2
 4051653,Prager Platz,Charlottenburg-Wilmersdorf,11.8
-4051446,Preußenpark,Charlottenburg-Wilmersdorf,16.2
+4051446,Preußenpark,Charlottenburg-Wilmersdorf,17.5
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,11.1
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,9.8
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg,13.4
@@ -86,7 +89,7 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 8010212,Rollberg,Neukölln,15.7
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,15.0
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,17.7
-4051448,Schaperstraße,Charlottenburg-Wilmersdorf,12.7
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,13.7
 8010117,Schillerpromenade,Neukölln,19.7
 4030415,Schloßgarten,Charlottenburg-Wilmersdorf,8.2
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,13.1

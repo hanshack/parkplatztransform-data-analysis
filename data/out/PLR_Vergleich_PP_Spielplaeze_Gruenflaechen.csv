@@ -1,7 +1,7 @@
 Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzflächen in %
 1011303,Alexanderplatzviertel,Mitte,2.6,9.0,0.4
 4030620,Alt-Lietzow,Charlottenburg-Wilmersdorf,3.7,7.2,0.4
-4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,5.4,0.4,0.6
+4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,5.8,0.4,0.6
 2040701,Andreasviertel,Friedrichshain-Kreuzberg,2.6,4.8,1.7
 3061434,Anton-Saefkow-Park,Pankow,3.5,11.8,2.3
 1011402,Arkonaplatz,Mitte,5.0,7.5,1.8
@@ -22,7 +22,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzfläc
 3061435,Conrad-Blenkle-Straße,Pankow,2.2,1.4,0.7
 7010104,Dennewitzplatz,Tempelhof-Schöneberg,3.4,8.7,1.5
 8010303,Donaustraße,Neukölln,4.0,0.0,1.4
-4030726,Droysenstraße,Charlottenburg-Wilmersdorf,4.6,2.5,1.7
+4030726,Droysenstraße,Charlottenburg-Wilmersdorf,5.2,2.5,1.7
 4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,3.8,0.1,0.2
 1022106,Elberfelder Straße,Mitte,4.2,4.6,0.8
 3061441,Eldenaer Straße,Pankow,2.8,10.5,0.9
@@ -32,7 +32,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzfläc
 3061131,Falkplatz,Pankow,3.3,20.7,1.5
 8010211,Flughafenstraße,Neukölln,4.0,0.3,1.1
 2040502,Friedenstraße,Friedrichshain-Kreuzberg,3.2,4.3,0.5
-4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,3.9,0.0,0.7
+4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,4.2,0.0,0.7
 8010407,Gewerbegebiet Ederstraße,Neukölln,2.0,0.0,0.0
 2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,0.4,37.6,0.4
 2020206,Graefekiez,Friedrichshain-Kreuzberg,3.8,3.5,1.0
@@ -47,14 +47,15 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzfläc
 1011305,Heine-Viertel West,Mitte,2.5,11.6,1.4
 3061332,Helmholtzplatz,Pankow,5.6,2.5,2.1
 8010405,Hertzbergplatz,Neukölln,4.8,5.1,4.6
-4030929,Hindemithplatz,Charlottenburg-Wilmersdorf,5.4,0.0,1.2
-1033203,Humboldthain Nordwest,Mitte,1.1,8.0,1.1
+4051656,Hildegardstraße,Charlottenburg-Wilmersdorf,4.2,0.0,0.0
+4030929,Hindemithplatz,Charlottenburg-Wilmersdorf,5.7,0.0,1.2
+1033203,Humboldthain Nordwest,Mitte,1.2,8.0,1.1
 1033202,Humboldthain Süd,Mitte,2.8,25.9,1.1
 1022101,Huttenkiez,Mitte,2.0,1.8,1.2
 1011401,Invalidenstraße,Mitte,2.9,5.1,2.4
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,4.0,3.1,3.1
 4030519,Kaiserin-Augusta-Allee,Charlottenburg-Wilmersdorf,1.8,4.4,0.4
-4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,3.4,2.2,1.0
+4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,3.5,2.2,1.0
 1011304,Karl-Marx-Allee,Mitte,3.0,4.8,3.3
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,3.3,2.8,1.1
 3071537,Kollwitzplatz,Pankow,4.8,2.6,1.9
@@ -62,20 +63,22 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzfläc
 1011104,Körnerstraße,Mitte,2.6,5.8,2.3
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,3.3,2.0,1.2
 1011204,Leipziger Straße,Mitte,3.7,2.3,0.7
+4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,3.8,0.4,2.3
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,2.8,15.9,1.4
 1022203,Lübecker Straße,Mitte,2.5,0.0,0.3
-4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,2.7,1.0,0.9
+4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,4.3,1.0,0.9
 1022206,Lüneburger Straße,Mitte,1.7,13.6,0.0
-1011103,Lützowstraße,Mitte,2.1,3.8,1.2
+1011103,Lützowstraße,Mitte,2.2,3.8,1.2
 2010102,Mehringplatz,Friedrichshain-Kreuzberg,1.7,4.0,1.2
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,3.3,4.9,0.6
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,1.2,49.5,0.4
+4051652,Nikolsburger Platz,Charlottenburg-Wilmersdorf,5.8,1.0,1.9
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,3.8,0.6,1.8
 1011105,Nördlicher Landwehrkanal,Mitte,1.4,5.5,0.1
 1011302,Oranienburger Straße,Mitte,3.0,5.8,1.3
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,3.8,14.9,2.4
 4051653,Prager Platz,Charlottenburg-Wilmersdorf,4.6,0.6,0.9
-4051446,Preußenpark,Charlottenburg-Wilmersdorf,5.8,9.5,0.8
+4051446,Preußenpark,Charlottenburg-Wilmersdorf,6.2,9.5,0.8
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,2.5,7.7,0.8
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,2.6,0.9,0.4
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg,2.8,15.3,2.4
@@ -86,7 +89,7 @@ Schlüssel,Name,Bezirk,PP Fläche in %,Grünanlagenflächen in %,Spielplatzfläc
 8010212,Rollberg,Neukölln,4.1,7.2,3.8
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,4.5,3.5,2.3
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,4.7,1.8,0.9
-4051448,Schaperstraße,Charlottenburg-Wilmersdorf,5.1,1.6,0.8
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,5.5,1.6,0.8
 8010117,Schillerpromenade,Neukölln,6.7,2.0,2.2
 4030415,Schloßgarten,Charlottenburg-Wilmersdorf,0.6,43.7,0.0
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,5.3,4.0,0.8
