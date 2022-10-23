@@ -295,13 +295,13 @@ id,name,status
 4041239,Stadion Wilmersdorf,
 4041238,Kissinger Straße,
 4051655,Babelsberger Straße,2
-4051656,Hildegardstraße,
+4051656,Hildegardstraße,2
 4051551,Brabanter Platz,2
 4041137,Flinsberger Platz,
 4051654,Wilhelmsaue,2
 4051549,Rathaus Wilmersdorf,2
-4051652,Nikolsburger Platz,
-4051550,Leon-Jessel-Platz,
+4051652,Nikolsburger Platz,2
+4051550,Leon-Jessel-Platz,2
 4051653,Prager Platz, 2
 7060604,Marienfelde Süd,
 7060603,Marienfelde Nordost,
@@ -382,7 +382,7 @@ id,name,status
 12302109,Treuenbrietzener Straße,
 12301205,Waidmannslust,
 12231101,Hermsdorf,
-12302212,Rollbergesiedlung,
+12302212,Rollbergesiedlung,2
 12301206,Lübars,
 12231102,Frohnau,
 5020521,Döberitzer Weg,
