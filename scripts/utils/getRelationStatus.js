@@ -44,19 +44,22 @@ function getRelationStatusPolygon(feature, adminArea, callback) {
 	mapshaper.applyCommands(cmd, input, function (err, output) {
 		const cleanGeoJSON = JSON.parse(new TextDecoder('utf-8').decode(output['out.json']));
 		let polygonInside = false;
+		
 		if (
 			cleanGeoJSON &&
-			cleanGeoJSON.features &&
-			cleanGeoJSON.features[0] &&
-			cleanGeoJSON.features[0].geometry
+			cleanGeoJSON.geometries &&
+			cleanGeoJSON.geometries[0] &&
+			cleanGeoJSON.geometries[0].coordinates
 		) {
-			polygonInside = cleanGeoJSON.features[0].geometry;
+			polygonInside = cleanGeoJSON.geometries[0];
 		} else {
 			callback('out');
 			return;
 		}
+
 		const polygonInsideSize = area(polygonInside);
 		const sizeDifference = polgonSize - polygonInsideSize;
+
 		if (sizeDifference <= 10) {
 			callback('in');
 		} else if (polygonInsideSize <= 10) {
