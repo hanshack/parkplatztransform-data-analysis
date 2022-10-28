@@ -36,7 +36,6 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 8010407,Gewerbegebiet Ederstraße,Neukölln,388,388,388
 2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,240,199,280
 2020206,Graefekiez,Friedrichshain-Kreuzberg,2978,2744,3211
-3061429,Greifswalder Straße,Pankow,2892,2892,2892
 1011102,Großer Tiergarten,Mitte,1368,1298,1438
 4031032,Halensee,Charlottenburg-Wilmersdorf,3381,3356,3406
 1022207,Hansaviertel,Mitte,1321,1232,1409
@@ -98,7 +97,6 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 4030621,Spreestadt,Charlottenburg-Wilmersdorf,1413,1413,1413
 1022201,Stephankiez,Mitte,3186,3175,3197
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,362,362,362
-2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,2423,2423,2423
 1011101,Stülerstraße,Mitte,1060,989,1131
 4030518,Tegeler Weg,Charlottenburg-Wilmersdorf,2064,2012,2116
 3071536,Teutoburger Platz,Pankow,1490,1453,1526
