@@ -18,7 +18,7 @@ id,name,status
 3071633,Thälmannpark,2
 3071536,Teutoburger Platz,2
 1011101,Stülerstraße,2
-2050804,Stralauer Halbinsel,2
+2050804,Stralauer Halbinsel,
 1022201,Stephankiez,2
 4030417,Schloßstraße,2
 8010117,Schillerpromenade,2
@@ -211,7 +211,7 @@ id,name,status
 7050503,Eisenacher Straße,
 8020619,Buschkrugallee Nord,
 7040406,Germaniagarten,
-2050803,Stralauer Kiez,
+2050803,Stralauer Kiez,2
 11040925,Victoriastadt,
 2040703,Wriezener Bahnhof/Entwicklungsgebiet,2
 2050802,Boxhagener Platz,2
