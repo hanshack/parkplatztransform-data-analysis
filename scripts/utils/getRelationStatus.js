@@ -19,7 +19,7 @@ function getRelationStatusLine(feature, adminArea, callback) {
 
 	mapshaper.applyCommands(cmd, input, function (err, output) {
 		const cleanGeoJSON = JSON.parse(new TextDecoder('utf-8').decode(output['out.json']));		
-		const lineInside = cleanGeoJSON.features ? cleanGeoJSON.features[0].geometry : cleanGeoJSON;
+		const lineInside = cleanGeoJSON.features ? cleanGeoJSON.features[0].geometry : cleanGeoJSON.geometries ? cleanGeoJSON.geometries[0] : cleanGeoJSON;
 		const singleLineLength = lineLength(lineInside) * 1000;
 		const lineDifference = totalLineLength - singleLineLength;
 		if (lineDifference <= 15) {
@@ -51,7 +51,13 @@ function getRelationStatusPolygon(feature, adminArea, callback) {
 			cleanGeoJSON.features[0].geometry
 		) {
 			polygonInside = cleanGeoJSON.features[0].geometry;
-		} else {
+		} else if (
+			cleanGeoJSON &&
+			cleanGeoJSON.geometries &&
+			cleanGeoJSON.geometries[0]
+    ) {
+			polygonInside = cleanGeoJSON.geometries[0];
+    } else {
 			callback('out');
 			return;
 		}
