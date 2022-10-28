@@ -6,6 +6,7 @@ Schlüssel,Name,Bezirk
 3061434,Anton-Saefkow-Park,Pankow
 1011402,Arkonaplatz,Mitte
 2010101,Askanischer Platz,Friedrichshain-Kreuzberg
+4051655,Babelsberger Straße,Charlottenburg-Wilmersdorf
 7010103,Barbarossaplatz,Tempelhof-Schöneberg
 2040501,Barnimkiez,Friedrichshain-Kreuzberg
 7020201,Bayerischer Platz,Tempelhof-Schöneberg
@@ -13,6 +14,7 @@ Schlüssel,Name,Bezirk
 3071639,Bötzowstraße,Pankow
 8010302,Bouchéstraße,Neukölln
 2050802,Boxhagener Platz,Friedrichshain-Kreuzberg
+4051551,Brabanter Platz,Charlottenburg-Wilmersdorf
 4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf
 1033201,Brunnenstraße,Mitte
 2020205,Chamissokiez,Friedrichshain-Kreuzberg
@@ -26,11 +28,13 @@ Schlüssel,Name,Bezirk
 3061441,Eldenaer Straße,Pankow
 9010101,Elsenstraße,Treptow-Köpenick
 1022104,Emdener Straße,Mitte
+4030623,Ernst-Reuter-Platz,Charlottenburg-Wilmersdorf
 3061131,Falkplatz,Pankow
 8010211,Flughafenstraße,Neukölln
 2040502,Friedenstraße,Friedrichshain-Kreuzberg
 4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf
 8010407,Gewerbegebiet Ederstraße,Neukölln
+2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg
 2020206,Graefekiez,Friedrichshain-Kreuzberg
 3061429,Greifswalder Straße,Pankow
 1011102,Großer Tiergarten,Mitte
@@ -43,10 +47,14 @@ Schlüssel,Name,Bezirk
 1011305,Heine-Viertel West,Mitte
 3061332,Helmholtzplatz,Pankow
 8010405,Hertzbergplatz,Neukölln
+4051656,Hildegardstraße,Charlottenburg-Wilmersdorf
+4030929,Hindemithplatz,Charlottenburg-Wilmersdorf
+1033203,Humboldthain Nordwest,Mitte
 1033202,Humboldthain Süd,Mitte
 1022101,Huttenkiez,Mitte
 1011401,Invalidenstraße,Mitte
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg
+4030519,Kaiserin-Augusta-Allee,Charlottenburg-Wilmersdorf
 4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf
 1011304,Karl-Marx-Allee,Mitte
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf
@@ -55,31 +63,44 @@ Schlüssel,Name,Bezirk
 1011104,Körnerstraße,Mitte
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg
 1011204,Leipziger Straße,Mitte
+4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf
 4030724,Lietzensee,Charlottenburg-Wilmersdorf
 1022203,Lübecker Straße,Mitte
+4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf
 1022206,Lüneburger Straße,Mitte
 1011103,Lützowstraße,Mitte
 2010102,Mehringplatz,Friedrichshain-Kreuzberg
 2010103,Moritzplatz,Friedrichshain-Kreuzberg
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg
+4051652,Nikolsburger Platz,Charlottenburg-Wilmersdorf
 7010102,Nollendorfplatz,Tempelhof-Schöneberg
 1011105,Nördlicher Landwehrkanal,Mitte
 1011302,Oranienburger Straße,Mitte
 2030301,Oranienplatz,Friedrichshain-Kreuzberg
+4051653,Prager Platz,Charlottenburg-Wilmersdorf
+4051446,Preußenpark,Charlottenburg-Wilmersdorf
+4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg
 8010301,Reuterkiez,Neukölln
 2040503,Richard-Sorge-Viertel,Friedrichshain-Kreuzberg
+4030622,Richard-Wagner-Straße,Charlottenburg-Wilmersdorf
 8010404,Rixdorf,Neukölln
 8010212,Rollberg,Neukölln
 2050602,Samariterviertel,Friedrichshain-Kreuzberg
+4030828,Savignyplatz,Charlottenburg-Wilmersdorf
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf
 8010117,Schillerpromenade,Neukölln
+4030415,Schloßgarten,Charlottenburg-Wilmersdorf
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf
 7020204,Schöneberger Insel,Tempelhof-Schöneberg
+8010118,Silbersteinstraße,Neukölln
+4030621,Spreestadt,Charlottenburg-Wilmersdorf
 1022201,Stephankiez,Mitte
 2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg
 1011101,Stülerstraße,Mitte
+4030518,Tegeler Weg,Charlottenburg-Wilmersdorf
 3071536,Teutoburger Platz,Pankow
 3071633,Thälmannpark,Pankow
 1022204,Thomasiusstraße,Mitte
@@ -93,9 +114,12 @@ Schlüssel,Name,Bezirk
 2010104,Wassertorplatz,Friedrichshain-Kreuzberg
 2040702,Weberwiese,Friedrichshain-Kreuzberg
 1022103,Westhafen,Mitte
+4051654,Wilhelmsaue,Charlottenburg-Wilmersdorf
 1011201,Wilhelmstraße,Mitte
 3071638,Winsstraße,Pankow
 8010116,Wissmannstraße,Neukölln
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg
+2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg
 1022205,Zillesiedlung,Mitte
 1022105,Zwinglistraße,Mitte

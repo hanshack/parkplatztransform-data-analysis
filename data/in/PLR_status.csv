@@ -1,5 +1,5 @@
 id,name,status
-1022105,Zwinglistraße,2
+1022105,Zwinglistraße,2 
 1022205,Zillesiedlung,2
 2030402,Wrangelkiez,2
 8010116,Wissmannstraße,2
@@ -255,26 +255,26 @@ id,name,status
 9010301,Baumschulenstraße,
 8010510,Gewerbegebiet Köllnische Heide,
 8010509,Schulenburgpark,
-8010118,Silbersteinstraße,
+8010118,Silbersteinstraße,2
 8010214,Glasower Straße,
 8010508,Weiße Siedlung,
 9010202,Köpenicker Landstraße,
 9010201,Am Treptower Park Süd,
 9010102,Am Treptower Park Nord,
 9010101,Elsenstraße,2 
-4051446,Preußenpark,
-4051447,Ludwigkirchplatz,
+4051446,Preußenpark,2
+4051447,Ludwigkirchplatz, 2
 4031032,Halensee,2
-4051448,Schaperstraße,
+4051448,Schaperstraße,2
 7010101,Wittenbergplatz/Viktoria-Luise-Platz,2
 4030930,George-Grosz-Platz,2
 4030931,Breitscheidplatz,2
-4030929,Hindemithplatz,
-4030828,Savignyplatz,
-4030623,Ernst-Reuter-Platz,
+4030929,Hindemithplatz,2
+4030828,Savignyplatz,2
+4030623,Ernst-Reuter-Platz,2
 4020313,Königin-Elisabeth-Straße,
-4030622,Richard-Wagner-Straße,
-4030621,Spreestadt,
+4030622,Richard-Wagner-Straße,2
+4030621,Spreestadt,2
 4030620,Alt-Lietzow,2
 6040810,Dahlem,
 7040403,Manteuffelstraße,
@@ -294,15 +294,15 @@ id,name,status
 7020204,Schöneberger Insel,2
 4041239,Stadion Wilmersdorf,
 4041238,Kissinger Straße,
-4051655,Babelsberger Straße,
-4051656,Hildegardstraße,
-4051551,Brabanter Platz,
+4051655,Babelsberger Straße,2
+4051656,Hildegardstraße,2
+4051551,Brabanter Platz,2
 4041137,Flinsberger Platz,
-4051654,Wilhelmsaue,
-4051549,Rathaus Wilmersdorf,
-4051652,Nikolsburger Platz,
-4051550,Leon-Jessel-Platz,
-4051653,Prager Platz,
+4051654,Wilhelmsaue,2
+4051549,Rathaus Wilmersdorf,2
+4051652,Nikolsburger Platz,2
+4051550,Leon-Jessel-Platz,2
+4051653,Prager Platz, 2
 7060604,Marienfelde Süd,
 7060603,Marienfelde Nordost,
 6020407,Thermometersiedlung,
@@ -336,15 +336,15 @@ id,name,status
 6010102,Schloßstraße,
 4020205,Siedlung Ruhleben,
 4020310,Park Ruhwald,
-4030415,Schloßgarten,
-4030519,Kaiserin-Augusta-Allee,
+4030415,Schloßgarten,2
+4030519,Kaiserin-Augusta-Allee,2
 1022101,Huttenkiez,2
-4030518,Tegeler Weg,
+4030518,Tegeler Weg,2
 1022202,Heidestraße,2
 5030833,Motardstraße,
 4010101,Jungfernheide,
 4010103,Paul-Hertz-Siedlung,
-1033203,Humboldthain Nordwest,
+1033203,Humboldthain Nordwest,2
 4010102,Plötzensee,
 5030832,Rohrdamm,
 1044202,Sparrplatz,
@@ -382,7 +382,7 @@ id,name,status
 12302109,Treuenbrietzener Straße,
 12301205,Waidmannslust,
 12231101,Hermsdorf,
-12302212,Rollbergesiedlung,
+12302212,Rollbergesiedlung,2
 12301206,Lübars,
 12231102,Frohnau,
 5020521,Döberitzer Weg,
@@ -446,4 +446,4 @@ id,name,status
 4020312,Branitzer Platz,
 4041136,Hagenplatz,
 4020314,Messegelände,
-4041134,Bismarckallee,
+4041134,Bismarckallee, 
