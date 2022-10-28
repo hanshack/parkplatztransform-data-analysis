@@ -59,7 +59,7 @@ id,name,status
 8010115,Hasenheide,2
 1022207,Hansaviertel,2
 1011102,Großer Tiergarten,2
-3061429,Greifswalder Straße,2
+3061429,Greifswalder Straße,
 2020206,Graefekiez,2
 2020201,Gleisdreieck/Entwicklungsgebiet,2
 8010407,Gewerbegebiet Ederstraße,2
@@ -211,7 +211,7 @@ id,name,status
 7050503,Eisenacher Straße,
 8020619,Buschkrugallee Nord,
 7040406,Germaniagarten,
-2050803,Stralauer Kiez,2
+2050803,Stralauer Kiez,
 11040925,Victoriastadt,
 2040703,Wriezener Bahnhof/Entwicklungsgebiet,2
 2050802,Boxhagener Platz,2
