@@ -93,7 +93,7 @@ function prepairData(mainCallback) {
 				subsegments.forEach((segment) => {
 					let carsSegement = 0;
 					if (polygonHasCarCount(segment)) {
-						carsSegement = segment.car_count;
+						carsSegement = Number(segment.car_count);
 					}
 					if (hasConstrains(segment)) {
 						constrainsCount += carsSegement;
