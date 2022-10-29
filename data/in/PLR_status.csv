@@ -18,7 +18,7 @@ id,name,status
 3071633,Thälmannpark,2
 3071536,Teutoburger Platz,2
 1011101,Stülerstraße,2
-2050804,Stralauer Halbinsel,2
+2050804,Stralauer Halbinsel,
 1022201,Stephankiez,2
 4030417,Schloßstraße,2
 8010117,Schillerpromenade,2
@@ -59,7 +59,7 @@ id,name,status
 8010115,Hasenheide,2
 1022207,Hansaviertel,2
 1011102,Großer Tiergarten,2
-3061429,Greifswalder Straße,2
+3061429,Greifswalder Straße,
 2020206,Graefekiez,2
 2020201,Gleisdreieck/Entwicklungsgebiet,2
 8010407,Gewerbegebiet Ederstraße,2
@@ -333,7 +333,7 @@ id,name,status
 6010207,Mittelstraße,
 6010204,Munsterdamm,
 6010208,Bergstraße,
-6010102,Schloßstraße,
+
 4020205,Siedlung Ruhleben,
 4020310,Park Ruhwald,
 4030415,Schloßgarten,2

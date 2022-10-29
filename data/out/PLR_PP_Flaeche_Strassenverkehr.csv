@@ -1,14 +1,14 @@
 Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrsfläche in %
-1011303,Alexanderplatzviertel,Mitte,6.7
+1011303,Alexanderplatzviertel,Mitte,6.9
 4030620,Alt-Lietzow,Charlottenburg-Wilmersdorf,11.8
 4030725,Amtsgerichtsplatz,Charlottenburg-Wilmersdorf,15.1
-2040701,Andreasviertel,Friedrichshain-Kreuzberg,8.5
+2040701,Andreasviertel,Friedrichshain-Kreuzberg,9.0
 3061434,Anton-Saefkow-Park,Pankow,11.6
 1011402,Arkonaplatz,Mitte,16.7
 2010101,Askanischer Platz,Friedrichshain-Kreuzberg,9.3
 4051655,Babelsberger Straße,Charlottenburg-Wilmersdorf,11.5
-7010103,Barbarossaplatz,Tempelhof-Schöneberg,24.0
-2040501,Barnimkiez,Friedrichshain-Kreuzberg,12.7
+7010103,Barbarossaplatz,Tempelhof-Schöneberg,24.3
+2040501,Barnimkiez,Friedrichshain-Kreuzberg,12.8
 7020201,Bayerischer Platz,Tempelhof-Schöneberg,14.2
 1022102,Beusselkiez,Mitte,13.1
 3071639,Bötzowstraße,Pankow,18.8
@@ -16,30 +16,29 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 2050802,Boxhagener Platz,Friedrichshain-Kreuzberg,17.3
 4051551,Brabanter Platz,Charlottenburg-Wilmersdorf,7.2
 4030931,Breitscheidplatz,Charlottenburg-Wilmersdorf,7.4
-1033201,Brunnenstraße,Mitte,12.7
+1033201,Brunnenstraße,Mitte,12.8
 2020205,Chamissokiez,Friedrichshain-Kreuzberg,17.1
 1011301,Charitéviertel,Mitte,10.4
 3061435,Conrad-Blenkle-Straße,Pankow,11.6
 7010104,Dennewitzplatz,Tempelhof-Schöneberg,12.7
 8010303,Donaustraße,Neukölln,12.6
-4030726,Droysenstraße,Charlottenburg-Wilmersdorf,14.7
+4030726,Droysenstraße,Charlottenburg-Wilmersdorf,15.4
 4051445,Eisenzahnstraße,Charlottenburg-Wilmersdorf,13.6
-1022106,Elberfelder Straße,Mitte,15.6
+1022106,Elberfelder Straße,Mitte,17.2
 3061441,Eldenaer Straße,Pankow,13.4
-9010101,Elsenstraße,Treptow-Köpenick,15.0
+9010101,Elsenstraße,Treptow-Köpenick,15.3
 1022104,Emdener Straße,Mitte,14.5
 4030623,Ernst-Reuter-Platz,Charlottenburg-Wilmersdorf,9.9
-3061131,Falkplatz,Pankow,16.8
+3061131,Falkplatz,Pankow,16.9
 8010211,Flughafenstraße,Neukölln,17.3
-2040502,Friedenstraße,Friedrichshain-Kreuzberg,13.9
+2040502,Friedenstraße,Friedrichshain-Kreuzberg,14.8
 4030930,George-Grosz-Platz,Charlottenburg-Wilmersdorf,13.7
 8010407,Gewerbegebiet Ederstraße,Neukölln,16.6
 2020201,Gleisdreieck/Entwicklungsgebiet,Friedrichshain-Kreuzberg,7.5
 2020206,Graefekiez,Friedrichshain-Kreuzberg,13.7
-3061429,Greifswalder Straße,Pankow,14.4
-1011102,Großer Tiergarten,Mitte,4.8
+1011102,Großer Tiergarten,Mitte,5.9
 4031032,Halensee,Charlottenburg-Wilmersdorf,13.6
-1022207,Hansaviertel,Mitte,12.8
+1022207,Hansaviertel,Mitte,12.9
 8010115,Hasenheide,Neukölln,6.9
 2050601,Hausburgviertel,Friedrichshain-Kreuzberg,17.4
 1022202,Heidestraße,Mitte,2.1
@@ -55,71 +54,70 @@ Schlüssel,Name,Bezirk,Anteil der PP Fläche im Straßenraum an Straßenverkehrs
 1011401,Invalidenstraße,Mitte,18.9
 7020203,Kaiser-Wilhelm-Platz,Tempelhof-Schöneberg,15.0
 4030519,Kaiserin-Augusta-Allee,Charlottenburg-Wilmersdorf,12.2
-4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,12.8
+4030827,Karl-August-Platz,Charlottenburg-Wilmersdorf,13.4
 1011304,Karl-Marx-Allee,Mitte,9.2
 4030416,Klausenerplatz,Charlottenburg-Wilmersdorf,16.3
 3071537,Kollwitzplatz,Pankow,16.1
 8010213,Körnerpark,Neukölln,20.4
 1011104,Körnerstraße,Mitte,8.7
-2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,11.7
+2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,11.9
 1011204,Leipziger Straße,Mitte,10.0
-4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,12.8
+4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,10581177282.7
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,17.4
 1022203,Lübecker Straße,Mitte,12.3
 4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,17.4
-1022206,Lüneburger Straße,Mitte,5.8
+1022206,Lüneburger Straße,Mitte,6.1
 1011103,Lützowstraße,Mitte,9.7
 2010102,Mehringplatz,Friedrichshain-Kreuzberg,7.5
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,14.1
-7040401,Neu-Tempelhof,Tempelhof-Schöneberg,12.3
+7040401,Neu-Tempelhof,Tempelhof-Schöneberg,12.7
 4051652,Nikolsburger Platz,Charlottenburg-Wilmersdorf,21.0
 7010102,Nollendorfplatz,Tempelhof-Schöneberg,11.5
 1011105,Nördlicher Landwehrkanal,Mitte,5.5
 1011302,Oranienburger Straße,Mitte,12.6
-2030301,Oranienplatz,Friedrichshain-Kreuzberg,14.2
+2030301,Oranienplatz,Friedrichshain-Kreuzberg,14.6
 4051653,Prager Platz,Charlottenburg-Wilmersdorf,11.8
 4051446,Preußenpark,Charlottenburg-Wilmersdorf,17.5
 4051549,Rathaus Wilmersdorf,Charlottenburg-Wilmersdorf,11.1
 2020202,Rathaus Yorckstraße,Friedrichshain-Kreuzberg,9.8
 2030401,Reichenberger Straße,Friedrichshain-Kreuzberg,13.4
 8010301,Reuterkiez,Neukölln,18.5
-2040503,Richard-Sorge-Viertel,Friedrichshain-Kreuzberg,15.8
+2040503,Richard-Sorge-Viertel,Friedrichshain-Kreuzberg,16.3
 4030622,Richard-Wagner-Straße,Charlottenburg-Wilmersdorf,16.4
 8010404,Rixdorf,Neukölln,16.6
 8010212,Rollberg,Neukölln,15.7
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,15.0
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,17.7
-4051448,Schaperstraße,Charlottenburg-Wilmersdorf,13.7
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,1.2599391212402113e+31
 8010117,Schillerpromenade,Neukölln,19.7
 4030415,Schloßgarten,Charlottenburg-Wilmersdorf,8.2
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,13.1
 7020204,Schöneberger Insel,Tempelhof-Schöneberg,11.3
 8010118,Silbersteinstraße,Neukölln,16.9
 4030621,Spreestadt,Charlottenburg-Wilmersdorf,12.3
-1022201,Stephankiez,Mitte,16.5
-2050804,Stralauer Halbinsel,Friedrichshain-Kreuzberg,6.9
+1022201,Stephankiez,Mitte,17.7
 2050803,Stralauer Kiez,Friedrichshain-Kreuzberg,12.2
 1011101,Stülerstraße,Mitte,8.8
 4030518,Tegeler Weg,Charlottenburg-Wilmersdorf,15.8
 3071536,Teutoburger Platz,Pankow,12.7
-3071633,Thälmannpark,Pankow,9.5
+3071633,Thälmannpark,Pankow,12.3
 1022204,Thomasiusstraße,Mitte,18.0
 2050801,Traveplatz,Friedrichshain-Kreuzberg,18.9
 8010406,Treptower Straße Nord,Neukölln,20.9
 1011202,Unter den Linden Nord,Mitte,5.4
 1011203,Unter den Linden Süd,Mitte,8.1
-2020204,Urbanstraße,Friedrichshain-Kreuzberg,11.0
-2020203,Viktoriapark,Friedrichshain-Kreuzberg,10.8
-7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,10.8
-2010104,Wassertorplatz,Friedrichshain-Kreuzberg,10.4
+2020204,Urbanstraße,Friedrichshain-Kreuzberg,11.9
+2020203,Viktoriapark,Friedrichshain-Kreuzberg,11.4
+7020202,Volkspark (Rudolf-Wilde-Park),Tempelhof-Schöneberg,11.4
+2010104,Wassertorplatz,Friedrichshain-Kreuzberg,10.8
 2040702,Weberwiese,Friedrichshain-Kreuzberg,19.6
 1022103,Westhafen,Mitte,4.2
 4051654,Wilhelmsaue,Charlottenburg-Wilmersdorf,12.8
 1011201,Wilhelmstraße,Mitte,6.4
 3071638,Winsstraße,Pankow,23.9
 8010116,Wissmannstraße,Neukölln,26.8
-7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,10.4
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,9872731345940.3
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,15.5
 2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,7.7
-1022205,Zillesiedlung,Mitte,22.1
+1022205,Zillesiedlung,Mitte,22.8
 1022105,Zwinglistraße,Mitte,16.9
