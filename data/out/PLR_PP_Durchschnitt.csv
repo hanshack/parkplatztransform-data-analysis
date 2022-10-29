@@ -62,7 +62,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1011104,Körnerstraße,Mitte,697,683,711
 2030302,Lausitzer Platz,Friedrichshain-Kreuzberg,2171,2163,2178
 1011204,Leipziger Straße,Mitte,2713,2676,2750
-4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,6200231290000,6200230,8780230
+4051550,Leon-Jessel-Platz,Charlottenburg-Wilmersdorf,772,643,901
 4030724,Lietzensee,Charlottenburg-Wilmersdorf,1434,1301,1567
 1022203,Lübecker Straße,Mitte,650,639,661
 4051447,Ludwigkirchplatz,Charlottenburg-Wilmersdorf,1071,1065,1077
@@ -72,7 +72,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 2010103,Moritzplatz,Friedrichshain-Kreuzberg,2096,2037,2154
 7040401,Neu-Tempelhof,Tempelhof-Schöneberg,5416,5261,5570
 4051652,Nikolsburger Platz,Charlottenburg-Wilmersdorf,2053,1975,2130
-7010102,Nollendorfplatz,Tempelhof-Schöneberg,2784260140,276026014,280726014
+7010102,Nollendorfplatz,Tempelhof-Schöneberg,2824,2800,2847
 1011105,Nördlicher Landwehrkanal,Mitte,1502,1502,1502
 1011302,Oranienburger Straße,Mitte,2445,2389,2500
 2030301,Oranienplatz,Friedrichshain-Kreuzberg,1520,1408,1631
@@ -88,7 +88,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 8010212,Rollberg,Neukölln,1217,1102,1332
 2050602,Samariterviertel,Friedrichshain-Kreuzberg,3471,3461,3480
 4030828,Savignyplatz,Charlottenburg-Wilmersdorf,2032,1736,2328
-4051448,Schaperstraße,Charlottenburg-Wilmersdorf,23680102205626127000392627620200000,236801022056260,254001022056262503110
+4051448,Schaperstraße,Charlottenburg-Wilmersdorf,2588,2482,2693
 8010117,Schillerpromenade,Neukölln,2702,2521,2882
 4030415,Schloßgarten,Charlottenburg-Wilmersdorf,553,451,655
 4030417,Schloßstraße,Charlottenburg-Wilmersdorf,2361,2302,2419
@@ -116,7 +116,7 @@ Schlüssel,Name,Bezirk,PP Durchschnitt,PP Durchschnitt min Konfidenz,PP Durchsch
 1011201,Wilhelmstraße,Mitte,1981,1971,1990
 3071638,Winsstraße,Pankow,2635,2569,2700
 8010116,Wissmannstraße,Neukölln,372,345,398
-7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,16500809280500000,1650080920,1811080920
+7010101,Wittenbergplatz/Viktoria-Luise-Platz,Tempelhof-Schöneberg,1750,1669,1830
 2030402,Wrangelkiez,Friedrichshain-Kreuzberg,1513,1471,1554
 2040703,Wriezener Bahnhof/Entwicklungsgebiet,Friedrichshain-Kreuzberg,1041,1036,1046
 1022205,Zillesiedlung,Mitte,487,487,487
