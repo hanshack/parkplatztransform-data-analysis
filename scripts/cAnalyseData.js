@@ -84,7 +84,7 @@ function analyseData(mainCallback) {
 					PPConstrainsMin + Math.round((PPConstrainsMax - PPConstrainsMin) / 2);
 
 				csvData.push({
-					Schlüssel: adminId,
+					Schlüssel: "0" + adminId, // add a 0 infront of id to match Datawrapper key bug
 					Name: adminName,
 					'Flächengröße in m²': adminSize,
 					Bezirk: extraInfo[adminId].bezirk,
