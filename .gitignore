@@ -5,6 +5,5 @@ node_modules
 /package
 .env
 /data/extra
-/data/temp/parkplatz-transform-prepaired.json
 /data/temp/streets
 notes.txt
